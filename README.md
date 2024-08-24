@@ -1,4 +1,4 @@
-# Project Name
+# Salary Calculation App (Polymorphic Style design pattern)
 
 ## Overview
 This project consists of two main components: Member Information and Salary Calculation Tool. The Member Information module utilizes the repository pattern to manage data, while the Salary Calculation Tool computes salaries based on employee status. The coding style employed throughout the project is polymorphic, allowing for flexibility and extensibility.
